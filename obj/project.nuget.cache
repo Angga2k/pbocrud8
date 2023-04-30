@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6UgMPM2EepAv+wPFtpBbStRBlJLk3APVljVJ/THofwZjBZVCBDLV2XDstL45RljJj+sgZTdaSTUkdKmwVFCP6g==",
+  "success": true,
+  "projectFilePath": "/home/angga/Documents/db3025/Documents.csproj",
+  "expectedPackageFiles": [
+    "/home/angga/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/home/angga/.nuget/packages/npgsql/8.0.0-preview.3/npgsql.8.0.0-preview.3.nupkg.sha512",
+    "/home/angga/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
